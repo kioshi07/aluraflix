@@ -1,8 +1,15 @@
 body{
     color: red;
     background: white;
+
+     margin: 0px;
 } 
 
 header{
     border: solid  2px  red;
+    padding: 20px;
+
+    font-size: 32px;
+
+    color: black;
 }
